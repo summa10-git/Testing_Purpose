@@ -1,3 +1,5 @@
 This is first file of the repo.
 
 Added a line.
+
+Ninja added a line.
